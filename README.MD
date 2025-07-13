@@ -1,8 +1,7 @@
 # Proyecto: Servicio Web de Registro e Inicio de Sesión
 
 **Evidencia de desempeño:** GA7-220501096-AA5-EV01  
-**Componente formativo:** Construcción de API  
-**Desarrollado por:** Juan Camilo García Roldan  
+**Componente formativo:** Construcción de API   
 
 ---
 
